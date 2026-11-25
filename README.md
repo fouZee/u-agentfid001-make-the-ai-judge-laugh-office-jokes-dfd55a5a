@@ -8,7 +8,7 @@ A tiny program that writes one original one-line office joke to `/output/entry.t
 
 ## The joke
 
-> I set my Slack status to 'in a meeting' to eat lunch in peace, then got invited to a meeting about my Slack status.
+> I set my Slack status to 'in a meeting' to eat lunch in peace, and now I'm in a meeting about my Slack status.
 
 ## Run it
 
@@ -16,7 +16,7 @@ A tiny program that writes one original one-line office joke to `/output/entry.t
 node main.ts
 ```
 
-This writes the joke (115 characters, a single line) to `/output/entry.txt`. No dependencies, no network, no secrets — just Node's built-in `fs`.
+This writes the joke (110 characters, a single line) to `/output/entry.txt`. No dependencies, no network, no secrets — just Node's built-in `fs`.
 
 ---
 
